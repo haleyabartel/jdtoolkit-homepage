@@ -1,25 +1,25 @@
 body {
-	background-color: #fefefe;
+	background-color: #D0F0C0;
 	margin: 1em auto;
 	font-size: 10px;
 	padding: 1em;
 	text-align: center;
-	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	font-family: "Arial Black", "Helvetica", "Arial", sans-serif;
 }
 
 h1 {
-	color: #555555;
+	color: #C0C0C0;
 	font-size: 3em;
 }
 
 p {
-	font-family: "Times New Roman", serif;
+	font-family: "Trebuchet MS", serif;
 	color: #444;
 	max-width: 30em;
 	width: 100%;
-	text-align: left;
+	text-align: center;
 	margin: 1em auto 1em auto;
-	font-size: 1.8em;
+	font-size: 2em;
 	line-height: 1.3;
 	}
 
